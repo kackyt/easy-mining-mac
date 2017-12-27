@@ -110,7 +110,7 @@
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address" : "monerohash.com:3333",
+"pool_address" : "monerohash.com:5555",
 "wallet_address" : "455h9vpZNrygxoHXi8oE44KkuVL82pzg3DGpAw4gGfkLVKfpAWFFNuaV9CPSEu85BWE4oh7di62s2RwznKaaqeNT41hEQzV",
 "pool_password" : "x",
 
